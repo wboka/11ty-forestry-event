@@ -1,0 +1,16 @@
+{
+ "name": "11ty-forestry-event",
+ "version": "1.0.0",
+ "description": "Demo website for an event",
+ "repository": "git@github.com:wboka/11ty-forestry-event.git",
+ "author": "wboka <boka.wayne+GitHub@gmail.com>",
+ "scripts": {
+  "dev": "eleventy --serve",
+  "compile": "eleventy"
+ },
+ "license": "MIT",
+ "private": true,
+ "devDependencies": {
+  "@11ty/eleventy": "^0.12.1"
+ }
+}

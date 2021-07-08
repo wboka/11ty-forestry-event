@@ -1,0 +1,17 @@
+---
+label: Sponsor
+hide_body: true
+fields:
+- type: field_group_list
+  name: Sponsors
+  label: Sponsors
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: description
+    label: description
+  - type: text
+    name: website
+    label: website

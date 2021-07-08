@@ -25,3 +25,5 @@ fields:
       maxSize: 64
     label: Image
     description: Sponsor’s logo or promo image
+pages:
+- _data/sponsors.json

@@ -1,7 +1,12 @@
 [
-	{ "name": "Wayne Boka, Web Developer", "website": "https://www.bokasolutions.com" },
 	{
-		"name": "IceBreakers Hockey",
+		"name": "Wayne Boka, Web Developer",
+		"description": "One stop shop for your online platform",
+		"website": "https://www.bokasolutions.com"
+	},
+	{
+		"name": "IceBreakers Hockey",,
+		"description": "Local hockey in Olean, NY",
 		"website": "https://www.icebreakershockey.com"
 	}
 ]

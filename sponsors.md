@@ -6,4 +6,6 @@ pagination:
 permalink: "sponsors/{{ sponsor.name | slug }}/"
 ---
 
-This event proudly sponsored by {{ sponsor.name }} ({{ sponsor.website }})
+This event proudly sponsored by [{{ sponsor.name }}]({{ sponsor.website }})
+
+[Home](/)

@@ -12,5 +12,5 @@ title: 1st Annual Tech Fest
 
 <a href="{{ sponsor.website }}" target="_blank" rel="noopener">Visit {{ sponsor.name }} on the web!</a>
 
-[Learn More](./sponsors/{{ sponsor.name | slug }})
+[Learn More About {{ sponsor.name }}](./sponsors/{{ sponsor.name | slug }})
 {%- endfor -%}
